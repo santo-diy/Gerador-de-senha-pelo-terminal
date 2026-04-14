@@ -4,6 +4,7 @@ import string
 import time
 import random
 import os
+#SantoDiy
 def menu():
  os.system('cls' if os.name == "nt" else "clear" )
  print("[red]\n ===== MENU =====[/red]")
