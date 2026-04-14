@@ -7,7 +7,7 @@ import pyfiglet
 import string
 import os
 
-
+#Santodiy
 
 def gerador(valor):
   os.system('cls' if os.name == "nt" else "clear")
