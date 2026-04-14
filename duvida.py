@@ -2,7 +2,7 @@ import os
 from rich import print
 import pyfiglet
 import time
-
+#Santodiy
 def Duvidas_senha():
  while True:
      DUvidas = pyfiglet.figlet_format("\n== DUVIDAS ==")
