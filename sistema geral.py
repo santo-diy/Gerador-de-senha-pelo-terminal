@@ -3,7 +3,7 @@ import time
 from menu import menu
 from gerador_de_senha import gerador
 from duvida import Duvidas_senha
-
+# SantoDiy
 
 while True:
  menu()
